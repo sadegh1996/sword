@@ -236,19 +236,15 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[Sword bot
     
-     Hello my Good friends 
+     Hello everybody 
      
-    ‼️ this bot is made by : @creed_is_dead
-   〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+    ‼️ this bot is developed by  :  @SadeghA_1996
+    
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -539,7 +535,7 @@ You Can user both "!" & "/" for them
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = 77076695
 end
 
 function on_user_update (user, what)
