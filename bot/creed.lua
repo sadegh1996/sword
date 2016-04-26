@@ -535,7 +535,7 @@ You Can user both "!" & "/" for them
 end
 
 function on_our_id (id)
-  our_id = 77076695
+  our_id = id
 end
 
 function on_user_update (user, what)
