@@ -1,4 +1,4 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
+# [Sword BoT] 
 **An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
 # Features
 
@@ -456,7 +456,6 @@ _Sudo users and admins can also use this commands in all groups_
 >> This command Writes your Test in picture and sends it to you
 
 
-New plugins BY : [@Creed_is_dead](http://telegram.me/Creed_is_dead)
 
 # Installation 
 
